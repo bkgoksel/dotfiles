@@ -1,0 +1,1 @@
+/home/bkgoksel/.config/fisherman/agnoster/fish_prompt.fish
